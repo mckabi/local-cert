@@ -1,0 +1,37 @@
+*.pem
+*.crt
+*.csr
+*.cer
+
+### DirEnv/DotEnv ###
+.envrc
+.direnv
+.env
+
+### IDE ###
+.idea
+.iml
+.vscode
+*.sublime-workspace
+*.tmproj
+*.tmproject
+tmtags
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+
+### OS generated files ###
+*~
+.DS_Store
+.DS_Store?
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
